@@ -1,0 +1,22 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Kalnia+Glaze:wght@100..700&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Outfit:wght@100..900&family=Playfair:ital,opsz,wght@0,5..1200,300..900;1,5..1200,300..900&family=Playwrite+NG+Modern+Guides&display=swap');
+
+@import "tailwindcss";
+
+@theme{
+   --color-primary: #2563EB;
+   --color-secondary: #FBBF24;
+
+}
+
+*{
+  margin: opx;
+  padding: opx;
+  box-sizing: border-box;
+  font-family: outfit;
+
+}
+.font-playfair{
+  font-family: playfair !important;
+}
