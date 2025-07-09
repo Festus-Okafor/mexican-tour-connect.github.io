@@ -16,7 +16,54 @@
   box-sizing: border-box;
   font-family: outfit;
 
+
+
 }
 .font-playfair{
   font-family: playfair !important;
+}
+.img{
+  margin-top: 0px;
+}
+h1{
+  font-size: 40px;
+  color: black;
+  text-align: center;
+}
+.Booking{
+  margin-top: 30px;
+  border: 3px solid lightblue;
+  color: black;
+  
+}
+.text{
+  text-align: center;
+  font-size: 28px;
+  color:blue;
+  font-family: 'Times New Roman', Times, serif;
+}
+.cards{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
+  margin-left:auto;
+  margin-right: auto;
+  width: 80%;
+  height: 40%;
+  gap: 20px;
+
+}
+.cards .card{
+  width: 500px;
+      height:150px;
+      border: 2px solid purple;
+      border-radius: 10px;
+      padding: 10px;
+      color: blue;
+      text-align: center;
+     font-size: 18px;
+}
+.card:hover{
+  background-color: aqua;
 }
