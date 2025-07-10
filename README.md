@@ -1,6 +1,6 @@
 
 
-# MEXIICAN-tour-connect
+# Mexican-tour-connect
 ![images](https://github.com/Festus-Okafor/mexican-tour-connect.github.io/blob/main/public/images/screnshot1.png)
 
 
