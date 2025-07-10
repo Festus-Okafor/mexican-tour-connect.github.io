@@ -7,7 +7,7 @@ function Header(){
     const navLinks = [
         { name: 'Home', path: '/' },
         { name: 'Hotels', path: '/' },
-        { name: 'Experience', path: '/' },
+        { name: 'Experience', path: '/FoodFact.jsx' },
         { name: 'About', path: '/' },
     ];
 
@@ -31,7 +31,7 @@ function Header(){
 
                 {/* Logo */}
                 <a href="/" className="flex items-center gap-2">
-                    <img src="" alt="logo" className={`h-9 ${isScrolled && "invert opacity-80"}`} />
+                    <img src="./images/download.png" alt="logo" className={`h-9 ${isScrolled && "invert opacity-80"}`} />
                 </a>
 
                 {/* Desktop Nav */}

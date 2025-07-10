@@ -1,7 +1,9 @@
 import React from 'react'
 import HeaderMain from '../HeaderMain'
 
-const HomePage = () => {
+const Login = () => {
+
+  
   return (
     <>
       <HeaderMain/>
@@ -9,4 +11,4 @@ const HomePage = () => {
   )
 }
 
-export default HomePage
+export default Login

@@ -8,7 +8,7 @@
             image: "./images/rotti.jpg",
         },
         {
-            title: "Come get thst memorable vacation in Mexico",
+            title: "Come get that memorable vacation in Mexico",
             image: "./images/MexicoFlag.jpg",
         },
         {
