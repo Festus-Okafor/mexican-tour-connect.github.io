@@ -14,8 +14,7 @@
                   throw new Error(`HTTP error! status: ${response.status}`);
                 }
                 const data = await response.json();
-                console.log(data.product)
-
+                data.product
                 setProduct(data.product);
               } catch (err) {
                 setError(err);
@@ -31,9 +30,9 @@
           if (!product) return <p>Product not found.</p>;
 
           return (
-            <div>
-              <h2>{product.product_name}</h2>
-              <p>Ingredients: {product.ingredients_text}</p>
+            <div className="apiDetails">
+                <h1>{product.last_image_dates_tags}</h1>
+                <h1>{product.last_image_t}</h1>
               {/* Add more details like nutrition facts, etc. */}
             </div>
           );

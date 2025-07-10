@@ -67,3 +67,8 @@ h1{
 .card:hover{
   background-color: aqua;
 }
+
+.apiDetails{
+  margin-top: 40px;
+  background: blue;
+}
