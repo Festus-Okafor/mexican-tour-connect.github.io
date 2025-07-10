@@ -1,7 +1,7 @@
 
 
 # MEXIICAN-tour-connect
-![images](https://github.com/Festus-Okafor/mexican-tour-connect/blob/main/public/images/screenshot1.jpg)
+![images](https://github.com/Festus-Okafor/mexican-tour-connect.github.io/blob/main/public/images/screnshot1.png)
 
 
 This where the reasons why this company is birthed, to American and people all over the world navigate the issue of tourism in mexico and have the best of it.
