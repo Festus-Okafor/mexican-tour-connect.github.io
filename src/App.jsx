@@ -7,7 +7,7 @@ import HeaderMain from './components/HeaderMain.jsx'
 import HeaderLast from './components/HeaderLast.jsx'
 import FoodFact from './components/FoodFact.jsx'
 import * as React from 'react'
-//import {Routes , useLocation} from 'react-router-dom'
+import {Routes , Route} from 'react-router-dom'
 import HomePage from './components/pages/Login.jsx'
 // Import all of Bootstrap’s CSS
 
@@ -22,7 +22,10 @@ function App() {
     <HeaderMain/> 
     <HeaderLast/>
     <FoodFact/>
-    
+     
+     <Routes>
+      <Route path= "/" element={<Home/>}/>
+     </Routes>
     </>
   )
 }
