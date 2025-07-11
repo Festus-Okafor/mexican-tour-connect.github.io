@@ -7,7 +7,7 @@ function Header(){
     const navLinks = [
         { name: 'Home', path: '/' },
         { name: 'Hotels', path: '/' },
-        { name: 'Experience', path: '/FoodFact.jsx' },
+        { name: 'Experience', path: '/' },
         { name: 'About', path: '/' },
     ];
 
