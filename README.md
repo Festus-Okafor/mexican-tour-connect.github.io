@@ -19,27 +19,23 @@ This is website for a company that has positioned  itself as a leader in the tou
 TECHNOLOGIES
 This is a MERN-stack project. This project is still in progress and currently being done using react also containing css, and javascript.
 Some other features including login /membership validation that should be done using mongoDB, would alternatively be done using firebase. And all being done ontop of nodeJS.
+Some of the dependencies installed includes react-router-dom, tailwindcss.
 
 
 EXPLANATION/APPROACH TAKEN
+The website entire content was broken into 3 categories 1. Header section, 2. Body section and 3. The footer section . The Header on its own contains several other components which i made to further breakdown the complexity.
+
+The Header.jsx file in the component folder contains the sticky navigation bar and all it contents.
+The HeaderMain.jsx in the component folder in turn contain the sliding pictures/carousel adding dynamics to the website and unquestionably further depicting what the website is all about. Also contains the cards explanation to the four(4) steps to booking your tour with the company.
 
 
-A README.md file in your GitHub repository with:
-
-Explanations of the technologies used.
-Explanations of the approach taken.
-A link to your live site.
-Usage instructions, if relevant.
-Unsolved problems.
-etc.
-Use AJAX to make a request to an external data source like OMDBapi, and insert some of the data retrieved into the DOM.
-
-➕ Bonus Features
-The following are not required:
-
-Have one or more complex user interface modules such as a carousel, drag and drop, a sticky nav, tooltips, etc.
-Look into localstorage so you can save data to the user's browser.
+The FoodFact.jsx file in the component folder contains an ajax call to a third party api  "world food fact" and some of the data contained in this api rendered on the website using the useEffect function asynchronously which is suitable for making ajax calls and side effects.
 
 
+ 2. BODY SECTION IS YET TO BE DONE
+ 3. FOOTER SECTION IS YET TO BE DONE
+
+
+ THE WEBSITE IS STILL IN BUILD PROCESS, ALOT STILL NEEDS TO BE DONE
 
 
