@@ -19,7 +19,7 @@ This is website for a company that has positioned  itself as a leader in the tou
 TECHNOLOGIES
 This is a MERN-stack project. This project is still in progress and currently being done using react also containing css, and javascript.
 Some other features including login /membership validation that should be done using mongoDB, would alternatively be done using firebase. And all being done ontop of nodeJS.
-Some of the dependencies installed includes react-router-dom, tailwindcss.
+Some of the dependencies installed includes react-router-dom, tailwindcss
 
 
 EXPLANATION/APPROACH TAKEN
