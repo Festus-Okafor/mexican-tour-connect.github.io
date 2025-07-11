@@ -1,5 +1,6 @@
+The website link below: 
 
-
+https://darling-twilight-9353da.netlify.app/
 # Mexican-tour-connect
 ![images](https://github.com/Festus-Okafor/mexican-tour-connect.github.io/blob/main/public/images/screnshot1.png)
 
@@ -31,6 +32,11 @@ The HeaderMain.jsx in the component folder in turn contain the sliding pictures/
 
 The FoodFact.jsx file in the component folder contains an ajax call to a third party api  "world food fact" and some of the data contained in this api rendered on the website using the useEffect function asynchronously which is suitable for making ajax calls and side effects.
 
+
+
+Here is the project deployed Link :
+
+https://darling-twilight-9353da.netlify.app/
 
  2. BODY SECTION IS YET TO BE DONE
  3. FOOTER SECTION IS YET TO BE DONE
