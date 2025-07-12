@@ -23,9 +23,10 @@ function App() {
     <HeaderLast/>
     <FoodFact/>
      
-     <Routes>
+   {/*   <Routes>
       <Route path= "/" element={<Home/>}/>
      </Routes>
+      */}
     </>
   )
 }
